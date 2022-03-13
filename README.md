@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there, Welcome to Seniorstack's profile 👋</h1>
-<h3 align="center">A Principal Blockchain and Mobile Engineer</h3>
+<h3 align="center">A Passionated Developer</h3>
 
 ## 🕵️‍♂️ About Me
 - 😎 I have been working as a mobile developer so far and have done numerous apps both iOS and Android so far such as Booking, Delivery, Fitness, Farming Management, Auto transport company app, Social media sharing, Photo sharing, etc, in orginal.
