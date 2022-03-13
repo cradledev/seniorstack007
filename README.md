@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h3 align="center">A Principal Blockchain and Mobile Engineer</h3>
 
 ## 🕵️‍♂️ About Me
-- 😎 I'm a proficient blockchain engineer with 4+ years of experience, interested in contributing expertise in web and blockchain development, capable of excelling as part of a team or individually in a fast-paced environment, deep understanding of Ethereum, DeFi, Tokenomics, NFT, etc.
 - 😎 I have been working as a mobile developer so far and have done numerous apps both iOS and Android so far such as Booking, Delivery, Fitness, Farming Management, Auto transport company app, Social media sharing, Photo sharing, etc, in orginal.
+- 😎 I'm a proficient blockchain engineer with 4+ years of experience, interested in contributing expertise in web and blockchain development, capable of excelling as part of a team or individually in a fast-paced environment, deep understanding of Ethereum, DeFi, Tokenomics, NFT, etc.
 - 👯 Over 4 past years, i was interesting in blockchain tech and started to learn about this, so i have enough skills and knoweldge in this field.
 I feel ready to grow my career rest my skills and experience as i enjoy challenge.
 
