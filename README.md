@@ -25,7 +25,7 @@ I feel ready to grow my career rest my skills and experience as i enjoy challeng
 
 - 👨‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology. 
 
-- 💬 Ask me about **Solidity**, **ReactJS**, **ReactJS**, **NodeJS**, **etc**.
+- 💬 Ask me about **Solidity**, **ReactJS**, **AngularJS**, **NodeJS**, **etc**.
 
 - 📚 I love reading books on personal development & financial literacy. 
 
