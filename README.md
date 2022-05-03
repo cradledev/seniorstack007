@@ -16,25 +16,23 @@ Here are some ideas to get you started:
 <h3 align="center">A Passionated Developer</h3>
 
 ## 🕵️‍♂️ About Me
-- 😎 I have been working as a mobile developer so far and have done numerous apps both iOS and Android so far such as Booking, Delivery, Fitness, Farming Management, Auto transport company app, Social media sharing, Photo sharing, etc, in orginal.
+- 😎 I have been working as a senior developer so far and have done numerous apps both mobile and web projects such as Booking, Delivery, Fitness, Farming Management, Auto transport company app, Social media sharing, Photo sharing, Company professional web site, etc.
 - 😎 I'm a proficient blockchain engineer with 4+ years of experience, interested in contributing expertise in web and blockchain development, capable of excelling as part of a team or individually in a fast-paced environment, deep understanding of Ethereum, DeFi, Tokenomics, NFT, etc.
 - 👯 Over 4 past years, i was interesting in blockchain tech and started to learn about this, so i have enough skills and knoweldge in this field.
 I feel ready to grow my career rest my skills and experience as i enjoy challenge.
-
-- 🔭 I’m currently working on blockchain projects mainly on DeFi.
 
 - 👯 I’m looking to collaborate on **Innovative Projects**
 
 - 👨‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology. 
 
-- 💬 Ask me about **Solidity**, **ReactJS**, **NodeJS**, **etc**.
+- 💬 Ask me about **Solidity**, **ReactJS**, **ReactJS**, **NodeJS**, **etc**.
 
 - 📚 I love reading books on personal development & financial literacy. 
 
 - ⚡ Quotes: *What you do today can improve all of your tomorrows.*
 
 ## 🚀 Achievements
-- ⭐ Contributed to Many Blockchain Projects
+- ⭐ Contributed to Many Projects including traditional (web and mobile) and crypto projects
 
 - 👨‍🎓 Master Degree in Computer Science
 
