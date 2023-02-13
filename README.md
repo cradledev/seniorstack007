@@ -42,5 +42,5 @@ I feel ready to grow my career rest my skills and experience as i enjoy challeng
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/seniorstack007)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seniorstack007@gmail.com)
-[![telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PinkyVaio)
+[![telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/goldtower1119)
 <!-- [![linked-in](https://img.shields.io/badge/Linked_In-E4405F?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/blake-lin-aaa876203/) -->
